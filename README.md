@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working as **System Engineer**
 
-- 📫 How to reach me **abhorajsujitham7@gmail.com**
+- 📫 How to reach me **abhirajsujitham7@gmail.com**
 <!---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
